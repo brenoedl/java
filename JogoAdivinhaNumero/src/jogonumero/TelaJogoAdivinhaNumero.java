@@ -24,6 +24,7 @@ public class TelaJogoAdivinhaNumero extends javax.swing.JFrame {
 
         lblMemsagem.setFont(new java.awt.Font("Arial Black", 1, 18)); // NOI18N
         lblMemsagem.setForeground(new java.awt.Color(0, 0, 255));
+        lblMemsagem.setHorizontalAlignment(javax.swing.SwingConstants.RIGHT);
         lblMemsagem.setText("<html>Vou sortear  um número entre 1 e 5 tente adivinhar!</html>");
 
         btnPalpite.setFont(new java.awt.Font("Segoe UI", 0, 18)); // NOI18N
