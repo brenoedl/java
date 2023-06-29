@@ -69,6 +69,7 @@
         <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="ff" green="0" red="0" type="rgb"/>
         </Property>
+        <Property name="horizontalAlignment" type="int" value="4"/>
         <Property name="text" type="java.lang.String" value="&lt;html&gt;Vou sortear  um n&#xfa;mero entre 1 e 5 tente adivinhar!&lt;/html&gt;"/>
       </Properties>
     </Component>
